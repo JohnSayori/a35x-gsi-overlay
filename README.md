@@ -15,4 +15,5 @@ YOU NEED TO BE ROOTED WITH MAGISK TO INSTALL THIS MODULE!
 # Bugs and issues.
 To be added.
 # Credits
-Thank you so much @Pokey8680 for helping me make this overlay.
+Thank you so much pokey8680 for helping me make this overlay.
+Also huge thanks to avitoras for building overlay APKs.
