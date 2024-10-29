@@ -1,0 +1,6 @@
+id=a35x-gsi-overlay
+name=Galaxy A35 5G GSI Overlay
+version=v1.0
+versionCode=1
+author=johnsayori
+description=This module is designed to fix issues on GSIs on the Galaxy A35 5G device.
